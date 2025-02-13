@@ -10,7 +10,7 @@ import FirebaseAuth
 import FirebaseFirestore
 
 
-class ListViewViewModel: ObservableObject {
+class ListViewModel: ObservableObject {
     @Published var showingNewItemView = false
     
     private let userId: String

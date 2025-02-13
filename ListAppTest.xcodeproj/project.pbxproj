@@ -18,13 +18,13 @@
 		AB43D2862D5A0E4E003D39E3 /* ItemModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB43D2632D5A0E4E003D39E3 /* ItemModel.swift */; };
 		AB43D2872D5A0E4E003D39E3 /* UserModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB43D2642D5A0E4E003D39E3 /* UserModel.swift */; };
 		AB43D2882D5A0E4E003D39E3 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB43D2662D5A0E4E003D39E3 /* Extensions.swift */; };
-		AB43D2892D5A0E4E003D39E3 /* ListItemViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB43D26E2D5A0E4E003D39E3 /* ListItemViewViewModel.swift */; };
-		AB43D28A2D5A0E4E003D39E3 /* ListViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB43D26F2D5A0E4E003D39E3 /* ListViewViewModel.swift */; };
-		AB43D28B2D5A0E4E003D39E3 /* LoginViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB43D2702D5A0E4E003D39E3 /* LoginViewViewModel.swift */; };
-		AB43D28C2D5A0E4E003D39E3 /* MainViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB43D2712D5A0E4E003D39E3 /* MainViewViewModel.swift */; };
-		AB43D28D2D5A0E4E003D39E3 /* NewItemViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB43D2722D5A0E4E003D39E3 /* NewItemViewViewModel.swift */; };
-		AB43D28E2D5A0E4E003D39E3 /* ProfileViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB43D2732D5A0E4E003D39E3 /* ProfileViewViewModel.swift */; };
-		AB43D28F2D5A0E4E003D39E3 /* RegisterViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB43D2742D5A0E4E003D39E3 /* RegisterViewViewModel.swift */; };
+		AB43D2892D5A0E4E003D39E3 /* ListItemViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB43D26E2D5A0E4E003D39E3 /* ListItemViewModel.swift */; };
+		AB43D28A2D5A0E4E003D39E3 /* ListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB43D26F2D5A0E4E003D39E3 /* ListViewModel.swift */; };
+		AB43D28B2D5A0E4E003D39E3 /* LoginViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB43D2702D5A0E4E003D39E3 /* LoginViewModel.swift */; };
+		AB43D28C2D5A0E4E003D39E3 /* MainViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB43D2712D5A0E4E003D39E3 /* MainViewModel.swift */; };
+		AB43D28D2D5A0E4E003D39E3 /* NewItemViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB43D2722D5A0E4E003D39E3 /* NewItemViewModel.swift */; };
+		AB43D28E2D5A0E4E003D39E3 /* ProfileViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB43D2732D5A0E4E003D39E3 /* ProfileViewModel.swift */; };
+		AB43D28F2D5A0E4E003D39E3 /* RegisterViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB43D2742D5A0E4E003D39E3 /* RegisterViewModel.swift */; };
 		AB43D2902D5A0E4E003D39E3 /* HeaderLoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB43D2762D5A0E4E003D39E3 /* HeaderLoginView.swift */; };
 		AB43D2912D5A0E4E003D39E3 /* ListItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB43D2772D5A0E4E003D39E3 /* ListItemView.swift */; };
 		AB43D2922D5A0E4E003D39E3 /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB43D2782D5A0E4E003D39E3 /* ListView.swift */; };
@@ -47,13 +47,13 @@
 		AB43D2692D5A0E4E003D39E3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		AB43D26B2D5A0E4E003D39E3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AB43D26C2D5A0E4E003D39E3 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
-		AB43D26E2D5A0E4E003D39E3 /* ListItemViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListItemViewViewModel.swift; sourceTree = "<group>"; };
-		AB43D26F2D5A0E4E003D39E3 /* ListViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewViewModel.swift; sourceTree = "<group>"; };
-		AB43D2702D5A0E4E003D39E3 /* LoginViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewViewModel.swift; sourceTree = "<group>"; };
-		AB43D2712D5A0E4E003D39E3 /* MainViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewViewModel.swift; sourceTree = "<group>"; };
-		AB43D2722D5A0E4E003D39E3 /* NewItemViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewItemViewViewModel.swift; sourceTree = "<group>"; };
-		AB43D2732D5A0E4E003D39E3 /* ProfileViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewViewModel.swift; sourceTree = "<group>"; };
-		AB43D2742D5A0E4E003D39E3 /* RegisterViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewViewModel.swift; sourceTree = "<group>"; };
+		AB43D26E2D5A0E4E003D39E3 /* ListItemViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListItemViewModel.swift; sourceTree = "<group>"; };
+		AB43D26F2D5A0E4E003D39E3 /* ListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewModel.swift; sourceTree = "<group>"; };
+		AB43D2702D5A0E4E003D39E3 /* LoginViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewModel.swift; sourceTree = "<group>"; };
+		AB43D2712D5A0E4E003D39E3 /* MainViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewModel.swift; sourceTree = "<group>"; };
+		AB43D2722D5A0E4E003D39E3 /* NewItemViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewItemViewModel.swift; sourceTree = "<group>"; };
+		AB43D2732D5A0E4E003D39E3 /* ProfileViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewModel.swift; sourceTree = "<group>"; };
+		AB43D2742D5A0E4E003D39E3 /* RegisterViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewModel.swift; sourceTree = "<group>"; };
 		AB43D2762D5A0E4E003D39E3 /* HeaderLoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderLoginView.swift; sourceTree = "<group>"; };
 		AB43D2772D5A0E4E003D39E3 /* ListItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListItemView.swift; sourceTree = "<group>"; };
 		AB43D2782D5A0E4E003D39E3 /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
@@ -129,13 +129,13 @@
 		AB43D29C2D5A0E6F003D39E3 /* ViewModels */ = {
 			isa = PBXGroup;
 			children = (
-				AB43D2702D5A0E4E003D39E3 /* LoginViewViewModel.swift */,
-				AB43D2742D5A0E4E003D39E3 /* RegisterViewViewModel.swift */,
-				AB43D2712D5A0E4E003D39E3 /* MainViewViewModel.swift */,
-				AB43D26F2D5A0E4E003D39E3 /* ListViewViewModel.swift */,
-				AB43D26E2D5A0E4E003D39E3 /* ListItemViewViewModel.swift */,
-				AB43D2722D5A0E4E003D39E3 /* NewItemViewViewModel.swift */,
-				AB43D2732D5A0E4E003D39E3 /* ProfileViewViewModel.swift */,
+				AB43D2702D5A0E4E003D39E3 /* LoginViewModel.swift */,
+				AB43D2742D5A0E4E003D39E3 /* RegisterViewModel.swift */,
+				AB43D2712D5A0E4E003D39E3 /* MainViewModel.swift */,
+				AB43D26F2D5A0E4E003D39E3 /* ListViewModel.swift */,
+				AB43D26E2D5A0E4E003D39E3 /* ListItemViewModel.swift */,
+				AB43D2722D5A0E4E003D39E3 /* NewItemViewModel.swift */,
+				AB43D2732D5A0E4E003D39E3 /* ProfileViewModel.swift */,
 			);
 			path = ViewModels;
 			sourceTree = "<group>";
@@ -285,13 +285,13 @@
 				AB43D2862D5A0E4E003D39E3 /* ItemModel.swift in Sources */,
 				AB43D2872D5A0E4E003D39E3 /* UserModel.swift in Sources */,
 				AB43D2882D5A0E4E003D39E3 /* Extensions.swift in Sources */,
-				AB43D2892D5A0E4E003D39E3 /* ListItemViewViewModel.swift in Sources */,
-				AB43D28A2D5A0E4E003D39E3 /* ListViewViewModel.swift in Sources */,
-				AB43D28B2D5A0E4E003D39E3 /* LoginViewViewModel.swift in Sources */,
-				AB43D28C2D5A0E4E003D39E3 /* MainViewViewModel.swift in Sources */,
-				AB43D28D2D5A0E4E003D39E3 /* NewItemViewViewModel.swift in Sources */,
-				AB43D28E2D5A0E4E003D39E3 /* ProfileViewViewModel.swift in Sources */,
-				AB43D28F2D5A0E4E003D39E3 /* RegisterViewViewModel.swift in Sources */,
+				AB43D2892D5A0E4E003D39E3 /* ListItemViewModel.swift in Sources */,
+				AB43D28A2D5A0E4E003D39E3 /* ListViewModel.swift in Sources */,
+				AB43D28B2D5A0E4E003D39E3 /* LoginViewModel.swift in Sources */,
+				AB43D28C2D5A0E4E003D39E3 /* MainViewModel.swift in Sources */,
+				AB43D28D2D5A0E4E003D39E3 /* NewItemViewModel.swift in Sources */,
+				AB43D28E2D5A0E4E003D39E3 /* ProfileViewModel.swift in Sources */,
+				AB43D28F2D5A0E4E003D39E3 /* RegisterViewModel.swift in Sources */,
 				AB43D2902D5A0E4E003D39E3 /* HeaderLoginView.swift in Sources */,
 				AB43D2912D5A0E4E003D39E3 /* ListItemView.swift in Sources */,
 				AB43D2922D5A0E4E003D39E3 /* ListView.swift in Sources */,

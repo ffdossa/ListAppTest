@@ -10,12 +10,12 @@ import FirebaseAuth
 import FirebaseFirestore
 
 struct ListView: View {
-  @StateObject var viewModel: ListViewViewModel
+  @StateObject var viewModel: ListViewModel
   @FirestoreQuery var items: [ItemModel]
   
   init(userId: String) {
     self._items = FirestoreQuery(collectionPath: "users/\(userId)/itemsList")
-    self._viewModel = StateObject(wrappedValue: ListViewViewModel(userId: userId))
+    self._viewModel = StateObject(wrappedValue: ListViewModel(userId: userId))
   }
   
   var body: some View {

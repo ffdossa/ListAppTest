@@ -10,7 +10,7 @@ import FirebaseAuth
 import FirebaseFirestore
 
 
-class ListItemViewViewModel: ObservableObject {
+class ListItemViewModel: ObservableObject {
     
     init () {
         

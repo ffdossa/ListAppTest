@@ -10,7 +10,7 @@ import FirebaseAuth
 import FirebaseFirestore
 
 
-class NewItemViewViewModel: ObservableObject {
+class NewItemViewModel: ObservableObject {
     @Published var title = ""
     @Published var dueDate = Date()
     @Published var showAlert = false

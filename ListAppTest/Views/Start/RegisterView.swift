@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct RegisterView: View {
-    @StateObject var viewModel = RegisterViewViewModel()
+    @StateObject var viewModel = RegisterViewModel()
     @State private var text: String = ""
     @FocusState private var isTextFieldFocused: Bool
     @State private var keyboardHeight: CGFloat = 0

@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct LoginView: View {
-  @StateObject var viewModel = LoginViewViewModel()
+  @StateObject var viewModel = LoginViewModel()
   @State private var text: String = ""
   @FocusState private var isTextFieldFocused: Bool
   @State private var keyboardHeight: CGFloat = 0

@@ -10,7 +10,7 @@ import FirebaseFirestore
 import Foundation
 
 
-class ProfileViewViewModel: ObservableObject {
+class ProfileViewModel: ObservableObject {
     @Published var user: UserModel? = nil
     
     init() {
